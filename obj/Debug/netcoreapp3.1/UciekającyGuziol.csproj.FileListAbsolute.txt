@@ -1,0 +1,15 @@
+C:\Users\Komputer\source\repos\UciekającyGuziol\bin\Debug\netcoreapp3.1\UciekającyGuziol.exe
+C:\Users\Komputer\source\repos\UciekającyGuziol\bin\Debug\netcoreapp3.1\UciekającyGuziol.deps.json
+C:\Users\Komputer\source\repos\UciekającyGuziol\bin\Debug\netcoreapp3.1\UciekającyGuziol.runtimeconfig.json
+C:\Users\Komputer\source\repos\UciekającyGuziol\bin\Debug\netcoreapp3.1\UciekającyGuziol.runtimeconfig.dev.json
+C:\Users\Komputer\source\repos\UciekającyGuziol\bin\Debug\netcoreapp3.1\UciekającyGuziol.dll
+C:\Users\Komputer\source\repos\UciekającyGuziol\bin\Debug\netcoreapp3.1\UciekającyGuziol.pdb
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.csprojAssemblyReference.cache
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.Form1.resources
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.csproj.GenerateResource.cache
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.dll
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.pdb
+C:\Users\Komputer\source\repos\UciekającyGuziol\obj\Debug\netcoreapp3.1\UciekającyGuziol.genruntimeconfig.cache
